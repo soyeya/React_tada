@@ -1,0 +1,26 @@
+{
+
+
+    "Btn" : [
+
+        {
+            "brand" : "Google Download",
+            "url" :  "https://play.google.com/store/apps/details?id=kr.co.vcnc.tada&shortlink=5c84d093&c=homepage_AOS&pid=homepage&source_caller=ui"
+        },
+
+        {
+
+            "brand" : "Apple Donwload",
+            "url" : "https://apps.apple.com/kr/app/%ED%83%80%EB%8B%A4/id1422751774?shortlink=e52e442e&c=homepage_IOS&pid=homepage&source_caller=ui"
+        }
+    ],
+
+    "Title" : [
+
+        "새로운 이동 기준 , 타다",
+        "스트레스 없는 쾌적한 이동 경험"
+    ]
+
+
+    
+}

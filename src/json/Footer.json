@@ -1,0 +1,80 @@
+{
+
+    "footerCont1" : [
+
+        "브이씨엔씨 주식회사" ,
+        "대표 : 이정행" ,
+        "통신판매번호 : 2015-서울강남-01065",
+        "사업자등록번호 : 119-86-38202",
+        "주소 : 서울특별시 강남구 테헤란로 507",
+        "Wework 빌딩 9층 브이씨엔씨"
+
+        
+    ],
+
+    "footerCont2" : [
+
+        {
+            "title" : "사업제휴 문의 : ",
+            "href" : "mailto:partner.tadatada.com",
+            "url" : "partner@tadatada.com"
+
+        },
+
+        {
+            "title" : "마케팅 문의 : ",
+            "href" : "mailto:marketing.tadatada.com",
+            "url" : "marketing@tadatada.com"
+
+        },
+        {
+            "title" : "고객센터 [Tel 1800-8437] : ",
+            "href" : "mailto:help.tadatada.com",
+            "url" : "help@tadatada.com"
+
+        },
+        {
+            "title" : "기술 블로그 : ",
+            "href" : "https://blog-tech.tadatada.com/",
+            "url" : "blog-tech.tadatada.com"
+
+
+        }
+
+        
+    ],
+
+    "footerCont3" : [
+
+       "개인정보처리방침",
+       "위치기반서비스 이용약관",
+       "이용약관",
+       "공고"
+
+        
+    ],
+
+    "footerSns" : [
+
+        {
+            "href" : "https://www.instagram.com/official.tada/",
+            "img" : "insta"
+            
+        },
+        {
+            "href" : "https://www.youtube.com/channel/UCrs2eTlzLvxGHdSfVL4EU2A",
+            "img" : "youtube"
+        },
+        {
+            "href" : "https://www.facebook.com/officialtada/",
+            "img" : "facebook"
+        },
+        {
+            "href" : "https://m.post.naver.com/my.nhn?memberNo=48668167",
+            "img" : "naver"
+        }
+    ]
+
+    
+    
+}
