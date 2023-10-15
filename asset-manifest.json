@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/React_tada/static/css/main.a4f15103.css",
+    "main.js": "/React_tada/static/js/main.10fa693a.js",
+    "static/js/787.a3711c77.chunk.js": "/React_tada/static/js/787.a3711c77.chunk.js",
+    "static/media/tada_background2.jpeg": "/React_tada/static/media/tada_background2.1c1418a91168f151f6b1.jpeg",
+    "static/media/tada_background.png": "/React_tada/static/media/tada_background.7f00be545952fc0680d0.png",
+    "static/media/tada_img1.jpeg": "/React_tada/static/media/tada_img1.e565dd97ab08d2f697de.jpeg",
+    "static/media/tada_iphone.png": "/React_tada/static/media/tada_iphone.3277694eb19b6d19bb6c.png",
+    "static/media/app_slide4.png": "/React_tada/static/media/app_slide4.d01ee740f72fe3103506.png",
+    "static/media/app_slide3.png": "/React_tada/static/media/app_slide3.2b19ab1d7d53877fce32.png",
+    "static/media/tada3.png": "/React_tada/static/media/tada3.f795eb1f074fb53a0aaf.png",
+    "static/media/tada2.png": "/React_tada/static/media/tada2.d64948e93b23f2bb7193.png",
+    "static/media/tada1.png": "/React_tada/static/media/tada1.ec04e0e8179ca29ffda8.png",
+    "static/media/app_slide2.png": "/React_tada/static/media/app_slide2.3373381e61fef20f0fd5.png",
+    "static/media/tada_img3.jpeg": "/React_tada/static/media/tada_img3.ac4a8d76e17f92da7f20.jpeg",
+    "static/media/tada4.png": "/React_tada/static/media/tada4.59b1ff3c871fb43674ed.png",
+    "static/media/tada_img2.jpeg": "/React_tada/static/media/tada_img2.261aae25c2a43408c58f.jpeg",
+    "static/media/app_slide5.png": "/React_tada/static/media/app_slide5.326f3b3e2a96acbd2d95.png",
+    "static/media/app_slide6.png": "/React_tada/static/media/app_slide6.9f0e276056654f28bd74.png",
+    "static/media/app_slide1.png": "/React_tada/static/media/app_slide1.d50fe9f2ce6805a53c3d.png",
+    "static/media/tada_insta.svg": "/React_tada/static/media/tada_insta.3afcce6a10a51e9749e775a3e39f8fc0.svg",
+    "static/media/tada_naver.svg": "/React_tada/static/media/tada_naver.3b0d378453d1b55458c65ea1a794262e.svg",
+    "static/media/tada_youtube.svg": "/React_tada/static/media/tada_youtube.0aa0f85b3a11cac27e2ce9a8c2566b59.svg",
+    "index.html": "/React_tada/index.html",
+    "static/media/tada_facebook.svg": "/React_tada/static/media/tada_facebook.53c2b32dd05b82e4ee0098b1b2431ea8.svg",
+    "main.a4f15103.css.map": "/React_tada/static/css/main.a4f15103.css.map",
+    "main.10fa693a.js.map": "/React_tada/static/js/main.10fa693a.js.map",
+    "787.a3711c77.chunk.js.map": "/React_tada/static/js/787.a3711c77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4f15103.css",
+    "static/js/main.10fa693a.js"
+  ]
+}
